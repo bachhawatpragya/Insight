@@ -205,7 +205,7 @@ For any issues or questions, please contact our development team:
 ### Team Members
 - **Project Lead**: [Your Name] - your.email@example.com
 - **Backend Developer**: [Team Member Name] - team.member@example.com
-- **Frontend Developer**: [Team Member Name] - frontend@example.com
+- **Frontend Developer**: [Pragya Bachhawat] - pragyabachhawat7@gmail.com
 - **Database Administrator**: [Team Member Name] - dba@example.com
 
 ### Support Channels
